@@ -3,13 +3,20 @@
 
 ## project link: "https://angular-selvam-ecommerce-task-7pwrxw.stackblitz.io/products"
 
-## Project title: 
+## Project title:e-commerce 
        
        
-## Project description 😃 :      
+## Project description 😃 :Our app or website makes time saving ,work and expenditure on mode of travel. And this is effectively help full for the people.   
 
 ## Features and functionalities 🧐:
-- 
+- User-Friendly Design.
+Perhaps the most important feature customers want in an ecommerce site is a good user experience. ...
+Mobile-Friendly Features. ...
+Multiple Payment Options. ...
+24/7 Customer Service. ...
+User Reviews. ...
+User Features and Discounts. ...
+Extensive Product Information.
 ## About  💬: 
 - 
 - 
